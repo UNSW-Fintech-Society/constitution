@@ -220,4 +220,4 @@ The UNSW Financial Technology Society
 4.	The Arc Delegate will have control over the Secretary role.
 5.	The Events and Sponsorships portfolio will be merged to create the Careers portfolio, which will sit under the Externals Division.
 6.	The Human Resources (HR) portfolio will be renamed to the Socials portfolio and will remain under the Internals Division.
-7.7	The Education portfolio will now sit under the Externals Division.
+7.	The Education portfolio will now sit under the Externals Division.
